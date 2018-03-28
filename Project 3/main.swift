@@ -2,11 +2,11 @@
 //  main.swift
 //  Projet 3
 //
-//  Created by Anthony KUNG on 19.01.18.
+//  Created by Anthony KUNG on 28.01.18.
 //  Copyright © 2018 Anthony KUNG. All rights reserved.
 //
 
 import Foundation
 
-print("Hello, World!")
-
+let game = Game()
+game.start()
